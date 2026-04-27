@@ -1,1 +1,1 @@
-jsconsole.log("Hello from C");
+console.log("Hello from D");
